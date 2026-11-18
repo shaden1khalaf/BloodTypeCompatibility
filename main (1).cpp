@@ -48,7 +48,7 @@ int main()
      }
      
      else
-     cout<<"blood type. Please check the spelling and enter a recognized blood group.";
+     cout<<"Invalid blood type. Please check the spelling and enter a recognized blood group..";
      
      
      
